@@ -1,4 +1,4 @@
-package estructurasRepaso.builder2.structure;
+package estructuras.builder2.structure;
 
 public class ConcreteBuilder2 extends Builder {
     @Override

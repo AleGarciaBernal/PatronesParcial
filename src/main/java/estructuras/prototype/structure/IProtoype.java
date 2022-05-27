@@ -1,4 +1,4 @@
-package estructurasRepaso.prototype.structure;
+package estructuras.prototype.structure;
 
 //Clonable--para usar clone
 public interface IProtoype extends Cloneable{

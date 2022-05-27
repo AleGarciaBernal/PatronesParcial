@@ -1,4 +1,4 @@
-package estructurasRepaso.interpreter.strcuture;
+package estructuras.interpreter.strcuture;
 
 public class TerminalExpressionE extends AbstractExpression{
     /**

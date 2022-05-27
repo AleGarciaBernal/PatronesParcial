@@ -1,4 +1,4 @@
-package estructurasRepaso.prototype.sinUsarPrototype;
+package estructuras.prototype.sinUsarPrototype;
 
 public class Client {
     public static void main(String[]args){

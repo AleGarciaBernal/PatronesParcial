@@ -1,4 +1,4 @@
-package estructurasRepaso.builder.structure;
+package estructuras.builder.structure;
 
 public abstract class Builder {
     //Usar protected(?)

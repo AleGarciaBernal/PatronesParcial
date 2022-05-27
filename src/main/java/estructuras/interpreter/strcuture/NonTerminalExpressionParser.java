@@ -1,4 +1,4 @@
-package estructurasRepaso.interpreter.strcuture;
+package estructuras.interpreter.strcuture;
 
 import java.util.ArrayList;
 import java.util.List;

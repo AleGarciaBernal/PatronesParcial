@@ -1,4 +1,4 @@
-package estructurasRepaso.prototype.structure;
+package estructuras.prototype.structure;
 
 public class ConcretePrototype1 implements IProtoype {
 //SI hay objetos, asegurrarse que la instancia exista

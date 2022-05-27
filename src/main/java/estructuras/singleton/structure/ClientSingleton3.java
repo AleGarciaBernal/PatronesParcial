@@ -1,4 +1,4 @@
-package estructurasRepaso.singleton.structure;
+package estructuras.singleton.structure;
 
 public class ClientSingleton3 {
 

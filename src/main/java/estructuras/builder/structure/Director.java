@@ -1,4 +1,4 @@
-package estructurasRepaso.builder.structure;
+package estructuras.builder.structure;
 //el que se encarga de la creacion d eobjetos concretos
 public class Director {
     //Atributo de tipo BUILDER

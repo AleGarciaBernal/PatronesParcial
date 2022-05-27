@@ -1,4 +1,4 @@
-package estructurasRepaso.prototype.sinUsarPrototype;
+package estructuras.prototype.sinUsarPrototype;
 
 public class Persona {
     private String at1;

@@ -1,4 +1,4 @@
-package estructurasRepaso.factoryMethod.structure;
+package estructuras.factoryMethod.structure;
 
 public class ConcreteCreatorP1 extends Creator{
 //Puede tener mas logica

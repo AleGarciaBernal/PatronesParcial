@@ -1,4 +1,4 @@
-package estructurasRepaso.prototype.structure;
+package estructuras.prototype.structure;
 
 public class ConcretePrototype2 implements IProtoype {
 

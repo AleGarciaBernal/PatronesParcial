@@ -1,4 +1,4 @@
-package estructurasRepaso.abstractFactory.structure;
+package estructuras.abstractFactory.structure;
 
 public class ConcreteProduct2 implements IProduct {
 

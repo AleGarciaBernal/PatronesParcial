@@ -1,4 +1,4 @@
-package estructurasRepaso.builder.structure;
+package estructuras.builder.structure;
 
 public class ConcreteBuilder2 extends Builder {
 
