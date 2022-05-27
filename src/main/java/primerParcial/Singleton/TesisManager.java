@@ -6,6 +6,7 @@ public class TesisManager {
 
     private static TesisManager instance;
 
+
     private TesisManager(){
         System.out.println("Creando Tesis Manager");
     }

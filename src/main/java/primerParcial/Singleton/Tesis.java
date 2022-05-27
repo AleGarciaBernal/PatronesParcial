@@ -34,4 +34,12 @@ public class Tesis {
         this.estudiante = estudiante;
     }
 
+    public void showInfo(){
+        System.out.println("Titulo"+this.getTitulo());
+        System.out.println("Mencion"+this.getMencion());
+
+    }
+
+
+
 }
