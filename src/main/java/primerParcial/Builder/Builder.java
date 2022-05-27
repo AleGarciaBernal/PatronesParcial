@@ -9,16 +9,13 @@ public abstract class Builder {
             return contrato;
         }
 
-        public void setProduct(Contrato product) {
-            this.contrato = product;
-        }
-
         public void createProduct(){
             this.contrato=new Contrato();
         }
 
         //build de los atributos
-        public abstract void buildAt1();
-        public abstract void buildAt2();
+        public abstract void buildEmpresa();
+        public abstract void builCosto();
+        public abstract void builListaDeCanales();
 
 }

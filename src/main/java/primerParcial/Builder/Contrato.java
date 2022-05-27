@@ -12,32 +12,33 @@ public class Contrato {
         return empresa;
     }
 
-    public void setEmpresa(String empresa) {
+    public Contrato setEmpresa(String empresa) {
         this.empresa = empresa;
+        return this;
     }
 
     public int getCosto() {
         return costo;
     }
 
-    public void setCosto(int costo) {
+    public Contrato setCosto(int costo) {
         this.costo = costo;
+        return this;
     }
 
     public String getListaDeCanaleYOPeliculas() {
         return listaDeCanaleYOPeliculas;
     }
 
-    public void setListaDeCanaleYOPeliculas(String listaDeCanaleYOPeliculas) {
+    public Contrato setListaDeCanaleYOPeliculas(String listaDeCanaleYOPeliculas) {
         this.listaDeCanaleYOPeliculas = listaDeCanaleYOPeliculas;
+        return this;
     }
 
     public void showInfo() {
         System.out.println("Empresa:"+empresa);
         System.out.println("costo:"+costo);
         System.out.println("ListaDeCanales:"+listaDeCanaleYOPeliculas);
-
-
 
     }
 }
